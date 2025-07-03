@@ -105,5 +105,4 @@ If you want to purchase a pre-loaded assembled PCB, see [Tindie](https://www.tin
 
 You will need to connect a suitable programming lead. Boards have a header for USB. The very latest design (expected on Amazon around Sep 2024) has a tag-connect compatible header for a [TC2030-USB-NL](https://www.tag-connect.com/product/tc2030-usb-nl) lead.
 
-See [https://github.com/revk/ESP32-RevK](https://github.com/revk/ESP32-RevK) for more details of how to flash the files easily.
-Screenshot_20250703_145422_Photos.jpg (1080×2400) https://share.google/HnLAt5ohuyDXFE6Dd
+See [https://github.com/revk/ESP32-RevK](https://github.com/revk/ESP32-RevK) for more details of how to flash the files 
